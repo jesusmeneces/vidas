@@ -17,6 +17,7 @@ public class Vidas {
         // TODO code application logic here
         System.out.println("holassssisas");
         System.out.println("isaac el que no se queda al voly");
+        System.out.println("cartas y sacar el 21 gana xd");
     }
     
 }
