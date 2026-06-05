@@ -16,6 +16,7 @@ public class Vidas {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("holassssisas");
+        System.out.println("isaac el que no se queda al voly");
     }
     
 }
